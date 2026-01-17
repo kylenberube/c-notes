@@ -6,11 +6,11 @@
 `-`     `Subtraction`       Subtracts one value from another       `x -y`
 `*`     `Multiplication`    Multiplies two values                  `x * y`
 `/`     `Division`          Divides one value by another           `x / y`
-`%`     `Modulus`           Returns the divison remainder          `x % y`
+`%`     `Modulus`           Returns the division remainder          `x % y`
 `++`    `Increment`         Increases the value of a variable by 1 `++x`
 `--`    `Decrement`         Decreases the value of a variable by 1 `--x`
 
-If you are looking to get a float number you must use arithmitec with the same data type
+If you are looking to get a float number you must use arithmetic with the same data type
 - For example: a `int / float` will output an integer while `float / float` will output a float
 
 # Incrementing and Decrementing
